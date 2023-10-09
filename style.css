@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#imageContainer {
+    margin-top: 20px;
+}
+
+#overlayText {
+    margin-top: 40px;
+    min-height: 30px;
+}
+
+#overlayButton, #saveButton {
+    margin-top: 10px;
+    min-height: 40px;
+
+}
+#footer{
+    background-color:black;
+    color: wheat;
+    font-size: 30px;
+}
